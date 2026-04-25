@@ -29,7 +29,7 @@ def binary_search(numbers: list[int], search_target) -> int:
 
 if __name__ == "__main__":
     test_numbers = [4, 5, 6, 7, 8]
-    search_target = 8
+    search_target = 5
     target_index = binary_search(test_numbers, search_target)
     if target_index != -1:
         print(f"Target {search_target} found at index: {target_index}")
