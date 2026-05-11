@@ -9,4 +9,5 @@
 
 ## 🛠️ Implementation Details
 To use this algorithm, the input list **must be sorted**.
-
+## LeetCode Verification: #704 Binary Search
+>LeetCode Success Result(./leetcode result.png)
